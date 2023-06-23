@@ -1,0 +1,23 @@
+html{
+    font-size: 22px
+
+
+}
+
+
+body
+{
+    background-color: #004225;
+    color: whitesmoke;
+    /*font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;*/
+}
+
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: lightgray;
+}
+a:hover, a:active{
+    color: #eee;
+}
